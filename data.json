@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "632229cc846bf895d7bd27a5"
+  },
+  "title": "Rings of Power",
+  "description": "Fantasy",
+  "date": {
+    "$date": {
+      "$numberLong": "1663183308323"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63222be9073090e2b16a6208"
+  },
+  "title": "THOR",
+  "description": "MCU",
+  "date": {
+    "$date": {
+      "$numberLong": "1663183849986"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63222dd3645ace04f8d27b9d"
+  },
+  "title": "LOKI",
+  "description": "MCU",
+  "date": {
+    "$date": {
+      "$numberLong": "1663184339620"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63222f5f283fd3ca7a55d47a"
+  },
+  "title": "ms marvel",
+  "description": "MCU",
+  "date": {
+    "$date": {
+      "$numberLong": "1663184735726"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6322d684de00257a4a26cb64"
+  },
+  "title": "Avengers END GAME",
+  "description": "MCU",
+  "date": {
+    "$date": {
+      "$numberLong": "1663227524957"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63295cf89547cb4c265255da"
+  },
+  "title": "FOR DELETE",
+  "description": "It will be soon deleted",
+  "date": {
+    "$date": {
+      "$numberLong": "1663655160906"
+    }
+  },
+  "__v": 0
+}]
